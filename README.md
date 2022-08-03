@@ -7,7 +7,7 @@ The study of Planetary Atmospheres is a key component of the UK’s planetary sc
 
 ## Previous Community Meetings
 
-* UK Planetary Atmospheres Meeting 2020, [February 2020](https://doi.org/10.1093/astrogeo/ataa040)
+* UK Planetary Atmospheres Meeting 2020, [February 2020](https://doi.org/10.1093/astrogeo/ataa040), the full schedule for the meeting can be found [here](meeting2020.md).
 * Weather on other planets: measurement and interpretation, [2015](https://rmets.onlinelibrary.wiley.com/doi/10.1002/wea.2761)
 * Weather and climate on the planets, [2008](https://rmets.onlinelibrary.wiley.com/doi/10.1002/wea.273) 
 

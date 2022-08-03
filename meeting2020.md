@@ -1,22 +1,26 @@
+# UK Planetary Atmospheres Meeting 2020
+
 A Royal Astronomical Society Discussion Meeting bringing together Solar System planetary atmospheres researchers from across the UK.
+
 Venue: Royal Astronomical Society, Burlington House, London.
+
 Date: Friday February 14th 2020; 10:00-15:30
 
-# Science Organising Committee:
+## Science Organising Committee:
 * Leigh N. Fletcher (University of Leicester)
 * Nick Teanby (University of Bristol)
 * Colin Wilson, Patrick Irwin, Peter Read (University of Oxford)
 * Manish Patel, Stephen Lewis (Open University)
 
 
-# Invited Speakers:
+## Invited Speakers:
 We are pleased to host two international speakers at this first UK Planetary Atmospheres Meeting:
 1.  Professor Olivier Mousis (Laboratory of Astrophysics of Marseille) to discuss planetary entry probes and their importance for understanding the origins of the Giant Planets.
 2. Dr Aymeric Spiga (Laboratoire de Météorologie Dynamique) to discuss the Martian Atmosphere and recent discoveries from Insight.
  
-# Programme:
+## Programme:
 
-## Session I: Outer Solar System (Chair: Naomi Rowe-Gurney)
+### Session I: Outer Solar System (Chair: Naomi Rowe-Gurney)
 * 10:30-10:35 Welcome to the UKSSPA Meeting- Leigh N. Fletcher (University of Leicester)
 * 10:35-11:00 (Invited) In situ Exploration of Giant Planet Atmospheres - Olivier Mousis (Laboratory of Astrophysics of Marseille)
 * 11:00-11:12 Cosmic ray ionization of Ice Giant atmospheres- Karen Aplin (University of Bristol)
@@ -29,7 +33,7 @@ We are pleased to host two international speakers at this first UK Planetary Atm
 * 12:24-12:40 Poster Presentations (60s each, single slide) - Sub-Chair:  Leigh Fletcher
 * 12:40-13:00 (Invited) Exploring Planetary Atmospheres: A Retrospective - Fred W. Taylor (University of Oxford)
  
-## Session II:  Inner Solar System (Chair:  Arrate Antunano)
+### Session II:  Inner Solar System (Chair:  Arrate Antunano)
 * 14:00-14:26 (Invited) Observing the atmosphere of Mars with the InSight lander - Aymeric Spiga (Laboratoire de Météorologie Dynamique)
 * 14:26-14:38 The dynamics of Mars's annular polar vortices - William Seviour (University of Bristol)
 * 14:38-14:50 Assimilation of Mars Satellite Observations with a Mars GCM - James Holmes (Open University)
@@ -38,7 +42,7 @@ We are pleased to host two international speakers at this first UK Planetary Atm
 * 15:14-15:26 The ACS investigation of the Martian atmosphere after 1.5 years in operation - Kevin Olsen (University of Oxford)
 * 15:26-15:30 Closing Remarks
  
-## Poster Presentations:
+### Poster Presentations:
 1. Juan Alday (University of Oxford) - Atmospheric science using PanCam, ISEM and FAST on the ExoMars 2020 Rover and Surface Platform
 2. Jason Sharkey (University of Bristol) - Structure and dynamical evolution of Titan’s northern polar vortex
 3. Narissa Patel (Open University) - Distribution of Subsurface Carbon Dioxide Ice at Different Obliquities

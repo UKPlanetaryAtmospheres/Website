@@ -12,6 +12,8 @@ RAS Geophysics Specialist Discussion Meeting:
 
 Hybrid meeting, with in-person attendance at Burlington House (10:00-16:00), followed by a RAS Ordinary Meeting and the [James Dungey Lecture](https://ras.ac.uk/awards-and-grants/awards/2276-james-dungey-lecture) to be delivered by Dr. Licia Ray.
 
+All attendees, both online and in person will have to register in advance via Eventbrite (link TBD).
+
 **Organisers:**  Leigh N. Fletcher (University of Leicester, leigh.fletcher@le.ac.uk),  Karen Aplin (University of Bristol), Dann Mitchell (University of Bristol), Licia Ray (Lancaster University)   
 
 **Call for Abstracts - Deadline September 29th:**. We invite abstracts from the Solar System Planetary Atmospheres community, highlighting new research and discoveries, new missions and opportunities, and sharing of techniques and tools to foster future collaborations within the community.  We will give priority to early-career speakers who have had limited opportunities to present their work during the pandemic.  To submit an abstract, please complete [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=MH_ksn3NTkql2rGM8aQVGxN8Wl3UNtNPs5DGMjd0UFdUNzFFUzZVWEU2NDA4MDNEME5DVDcxRTRRRi4u) by September 29th), stating your preference for in-person or virtual participation.  The details of the hybrid approach (e.g., the platform for posters and interactions) will be provided in the coming weeks - please watch this space.

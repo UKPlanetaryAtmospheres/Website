@@ -1,6 +1,6 @@
 # UK Solar System Planetary Atmospheres
 
-The study of Planetary Atmospheres is a key component of the UK’s planetary science portfolio, enabling global leadership in instrumentation, multi-spectral data analysis (both space- and ground-based), and numerical simulation.  In recent decades, this has provided unique results from astronomical observatories and visiting spacecraft (e.g., Venus Express, Mars Express, ExoMars Trace Gas Orbiter, Galileo, Cassini, and Juno).  
+The study of Planetary Atmospheres is a key component of the UK’s planetary science portfolio, enabling leadership in instrumentation, multi-spectral data analysis (both space- and ground-based), and numerical simulation.  In recent decades, this has provided unique results from astronomical observatories and visiting spacecraft (e.g., Venus Express, Mars Express, ExoMars Trace Gas Orbiter, Galileo, Cassini, and Juno).  
 
 ![image](https://user-images.githubusercontent.com/4047392/182591493-bda24ebf-347c-4e2c-8fa1-613bd89014cb.png)
 

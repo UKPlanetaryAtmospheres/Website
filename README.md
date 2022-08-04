@@ -30,7 +30,7 @@ The community last met at a RAS-sponsored meeting in [February 2020](https://doi
 
 ## Previous Community Meetings
 
-* UK Planetary Atmospheres Meeting 2020, [February 2020](https://doi.org/10.1093/astrogeo/ataa040), the full schedule for the meeting can be found [here](meeting2020.md).
+* UK Planetary Atmospheres Meeting 2020, [February 2020](https://doi.org/10.1093/astrogeo/ataa040).  A write-up of the meeting can be found [here](UKSSPA2020_astrogeo_fletcher.pdf), the full schedule for the meeting can be found [here](meeting2020.md), with the abstracts [here](UKSSPA2020_programme.pdf). 
 * Weather on other planets: measurement and interpretation, [2015](https://rmets.onlinelibrary.wiley.com/doi/10.1002/wea.2761)
 * Weather and climate on the planets, [2008](https://rmets.onlinelibrary.wiley.com/doi/10.1002/wea.273)  
 

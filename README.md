@@ -8,7 +8,7 @@ The study of Planetary Atmospheres is a key component of the UK’s planetary sc
 
 RAS Geophysics Specialist Discussion Meeting:  
 
-*Exploring Planetary Atmospheric Processes from Terrestrial Worlds to Giant Planets*
+[*Exploring Planetary Atmospheric Processes from Terrestrial Worlds to Giant Planets*](https://ras.ac.uk/events-and-meetings/ras-meetings/exploring-planetary-atmospheric-processes-terrestrial-worlds-giant)
 
 Hybrid meeting, with in-person attendance at Burlington House (10:00-16:00), followed by a RAS Ordinary Meeting and the [James Dungey Lecture](https://ras.ac.uk/awards-and-grants/awards/2276-james-dungey-lecture) to be delivered by Dr. Licia Ray.
 

@@ -20,7 +20,9 @@ All attendees, both online and in person will have to register in advance via Ev
 
 The community last met at a RAS-sponsored meeting in [February 2020](https://doi.org/10.1093/astrogeo/ataa040), providing an opportunity to celebrate achievements, to network and discuss future opportunities, and to give early-career researchers a chance to present their latest discoveries.  We hope to build on this foundation, and have secured the endorsements of both the Royal Meteorological Society (RMetS) and Europlanet Ireland-UK Hub to host this next community meeting.  
 
-**Invited Speakers:** In the coming weeks, we will invite speakers with expertise in both terrestrial and planetary atmospheres, as well as experts on the interconnection between atmospheres and the magnetosphere/ionosphere.  Please watch this space for further details.
+**Invited Speakers:** We are delighted to welcome two invited speakers to help set the theme for the discussion meeting:
+* Dr William J. M. Seviour, Department of Mathematics and Global Systems Institute, University of Exeter, discussing *"Theory, models, and methods: Translating Earth science to planetary atmospheres."*
+* Dr. Luke Moore, Research Assistant Professor of Astronomy, Center for Space Physics, Boston University, discussing *"Coupling between the Atmosphere and Magnetosphere."
 
 **Proposed Schedule:**
 * 10:00-10:30 Arrival - Tea/Coffee at the RAS

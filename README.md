@@ -22,7 +22,7 @@ The community last met at a RAS-sponsored meeting in [February 2020](https://doi
 
 **Invited Speakers:** We are delighted to welcome two invited speakers to help set the theme for the discussion meeting:
 * Dr William J. M. Seviour, Department of Mathematics and Global Systems Institute, University of Exeter, discussing *"Theory, models, and methods: Translating Earth science to planetary atmospheres."*
-* Dr. Luke Moore, Research Assistant Professor of Astronomy, Center for Space Physics, Boston University, discussing *"Coupling between the Atmosphere and Magnetosphere."
+* Dr. Luke Moore, Research Assistant Professor of Astronomy, Center for Space Physics, Boston University, discussing *"From the depths of the atmosphere to the dusty vacuum of space."
 
 **Proposed Schedule:**
 * 10:00-10:30 Arrival - Tea/Coffee at the RAS

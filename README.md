@@ -22,7 +22,7 @@ The community last met at a RAS-sponsored meeting in [February 2020](https://doi
 
 **Invited Speakers:** We are delighted to welcome two invited speakers to help set the theme for the discussion meeting:
 * Dr William J. M. Seviour, Department of Mathematics and Global Systems Institute, University of Exeter, discussing *"Theory, models, and methods: Translating Earth science to planetary atmospheres."*
-* Dr. Luke Moore, Research Assistant Professor of Astronomy, Center for Space Physics, Boston University, discussing *"From the depths of the atmosphere to the dusty vacuum of space."
+* Dr. Luke Moore, Research Assistant Professor of Astronomy, Center for Space Physics, Boston University, discussing *"From the depths of the atmosphere to the dusty vacuum of space."*
 
 **Proposed Schedule:**
 * 10:00-10:30 Arrival - Tea/Coffee at the RAS
@@ -30,6 +30,9 @@ The community last met at a RAS-sponsored meeting in [February 2020](https://doi
 * 13:00-14:00 Lunch (Not Provided)
 * 14:00-15:30 Session II: Atmosphere-Magnetosphere Connections
 * 15:30-16:00 Tea @Geological Society
+
+**Fees:**
+Attendance at the meeting is free to members of the Royal Astronomical Society.  The Europlanet UK-Ireland hub will cover the fees for Europlanet Society members (details TBC).  For non-RAS and non-Europlanet members, the cost is £15 per person (£5 for registered students).
 
 
 ## Previous Community Meetings

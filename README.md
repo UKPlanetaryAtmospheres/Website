@@ -12,7 +12,7 @@ RAS Geophysics Specialist Discussion Meeting:
 
 Hybrid meeting, with in-person attendance at Burlington House (10:00-16:00), followed by a RAS Ordinary Meeting and the [James Dungey Lecture](https://ras.ac.uk/awards-and-grants/awards/2276-james-dungey-lecture) to be delivered by Dr. Licia Ray.
 
-All attendees, both online and in person will have to register in advance via Eventbrite (follow [these links](https://ras.ac.uk/events-and-meetings/ras-meetings/exploring-planetary-atmospheric-processes-terrestrial-worlds-giant)).
+With the exception of presenters, all attendees, both online and in person will have to register in advance via Eventbrite (follow [these links](https://ras.ac.uk/events-and-meetings/ras-meetings/exploring-planetary-atmospheric-processes-terrestrial-worlds-giant)).
 
 **Organisers:**  Leigh N. Fletcher (University of Leicester, leigh.fletcher@le.ac.uk),  Karen Aplin (University of Bristol), Dann Mitchell (University of Bristol), Licia Ray (Lancaster University)   
 
@@ -26,14 +26,23 @@ The community last met at a RAS-sponsored meeting in [February 2020](https://doi
 
 **Proposed Schedule:**
 * 10:00-10:30 Arrival - Tea/Coffee at the RAS
-* 10:30-13:00 Session I: Terrestrial Worlds
-* 13:00-14:00 Lunch (Not Provided)
-* 14:00-15:30 Session II: Atmosphere-Magnetosphere Connections
-* 15:30-16:00 Tea @Geological Society
+* 10:30-12:45 Session I: Terrestrial Worlds
+* 12:45-13:45 Lunch (Not Provided)
+* 13:45-15:30 Session II: Atmosphere-Magnetosphere Connections
+* 15:30-16:00 Tea at the Society of Antiquities
 
-**Fees:**
-Attendance at the meeting is free to members of the Royal Astronomical Society.  The Europlanet UK-Ireland hub will cover the fees for Europlanet Society members (details TBC).  For non-RAS and non-Europlanet members, the cost is £15 per person (£5 for registered students).
-
+**Important Information for Attendees:**
+* **Lunch:** RAS meeting schedules are often rather tight, and only an hour can be provided for lunch.  With venues busy during the lunch break, it might be wise to purchase lunches in advance to eat in the RAS library, which will give you plenty of time to view posters and chat to colleagues!
+* **Contributed talks** are allocated 10 minutes, for both talks and Q&A.  We recommend **8-minute** talks, but if you wish to retain more time for discussion, please feel free to shorten!
+* Speakers should bring their slides on a **USB stick** and upload to the RAS machine either before 10:30 or during the lunch break.
+* Attendance at the meeting is free to members of the Royal Astronomical Society and presenters (posters and orals).  Presenters should not use the RAS Eventbrite Links unless they can do so for free as a RAS member.  Fees are waived for presenters (oral and posters), and the RAS already has a list of names.  
+* A RAS staff member will be on the door checking attendees names against the list of presenters and/or attendees.
+* The **Europlanet UK-Ireland hub** will cover the fees for Europlanet Society members. Attendees from Europlanet (who are not speakers) should register and pay via Eventbrite, and then seek later reimbursement (details will be circulated to Europlanet members).
+* For non-RAS and non-Europlanet members, the cost is £15 per person (£5 for registered students).
+* **Poster presenters** are invited to submit a single advertising slide (PDF or PPTX) to leigh.fletcher@le.ac.uk before the meeting, to present in 60-seconds during the morning session.
+* Portrait poster boards accommodate up to size A0.  Posters can be mounted at the start of the day (from 10am) and taken down before 4pm.
+* **Remote speakers** will be provided with a special Zoom Webinar invite link ahead of their presentations.
+* **Student attendees:** Students can become members of the RAS for a low cost.  If you are already in the process of becoming elected, please bring the nomination form with you (electronic or hardcopy) to show at the welcome desk, and do not pay extra via the Eventbrite list.
 
 ## Previous Community Meetings
 

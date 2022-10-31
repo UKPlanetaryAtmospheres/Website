@@ -10,11 +10,11 @@ RAS Geophysics Specialist Discussion Meeting:
 
 [*Exploring Planetary Atmospheric Processes from Terrestrial Worlds to Giant Planets*](https://ras.ac.uk/events-and-meetings/ras-meetings/exploring-planetary-atmospheric-processes-terrestrial-worlds-giant)
 
-Hybrid meeting, with in-person attendance at Burlington House (10:00-16:00), followed by a RAS Ordinary Meeting and the [James Dungey Lecture](https://ras.ac.uk/awards-and-grants/awards/2276-james-dungey-lecture) to be delivered by Dr. Licia Ray.
+Hybrid meeting, with in-person attendance at the Royal Astronomical Society, Burlington House (10:00-16:00), followed by a RAS Ordinary Meeting and the [James Dungey Lecture](https://ras.ac.uk/awards-and-grants/awards/2276-james-dungey-lecture) to be delivered by Dr. Licia Ray.
 
 Abstracts for invited and contributed presentations (orals and posters) can be [found here.](abstracts.md)
 
-With the exception of presenters, all attendees, both online and in person will have to register in advance via Eventbrite (follow [these links](https://ras.ac.uk/events-and-meetings/ras-meetings/exploring-planetary-atmospheric-processes-terrestrial-worlds-giant)).
+With the exception of presenters, all attendees, both online and in person will have to register in advance via Eventbrite (follow [these links](https://ras.ac.uk/events-and-meetings/ras-meetings/exploring-planetary-atmospheric-processes-terrestrial-worlds-giant)).  Registration closes at midnight (GMT) on 10 November.
 
 **Organisers:**  Leigh N. Fletcher (University of Leicester, leigh.fletcher@le.ac.uk),  Karen Aplin (University of Bristol), Dann Mitchell (University of Bristol), Licia Ray (Lancaster University)   
 
@@ -27,11 +27,11 @@ The community last met at a RAS-sponsored meeting in [February 2020](https://doi
 * Dr. Luke Moore, Research Assistant Professor of Astronomy, Center for Space Physics, Boston University, discussing *"From the depths of the atmosphere to the dusty vacuum of space."*
 
 **Proposed Schedule:**
-* 10:00-10:30 Arrival - Tea/Coffee at the RAS
+* 10:00-10:25 Arrival - Tea/Coffee at the RAS
 * 10:30-12:45 Session I: Terrestrial Worlds
 * 12:45-13:45 Lunch (Not Provided)
 * 13:45-15:30 Session II: Atmosphere-Magnetosphere Connections
-* 15:30-16:00 Tea at the Society of Antiquities
+* 15:30-16:00 Tea at the Society of Antiquaries of London
 
 **Important Information for Attendees:**
 * **Lunch:** RAS meeting schedules are often rather tight, and only an hour can be provided for lunch.  With venues busy during the lunch break, it might be wise to purchase lunches in advance to eat in the RAS library, which will give you plenty of time to view posters and chat to colleagues!
@@ -45,6 +45,12 @@ The community last met at a RAS-sponsored meeting in [February 2020](https://doi
 * Portrait poster boards accommodate up to size A0.  Posters can be mounted at the start of the day (from 10am) and taken down before 4pm.
 * **Remote speakers** will be provided with a special Zoom Webinar invite link ahead of their presentations.
 * **Student attendees:** Students can become members of the RAS for a low cost.  If you are already in the process of becoming elected, please bring the nomination form with you (electronic or hardcopy) to show at the welcome desk, and do not pay extra via the Eventbrite list.
+
+## Ordinary Meeting
+[Tickets are also available](https://ras.ac.uk/events-and-meetings/ras-meetings/ras-ordinary-meeting-november-2022) for the Ordinary Meeting on 11 November, 4pm. This is a hybrid event and will feature two talks:
+* Dr Olivia Jones - Early science from JWST
+* Dr Licia Ray - Neither here nor there: The coupling between giant planets and their surroundings (James Dungey Lectureship)
+This meeting will be held at the Society of Antiquaries of London, Burlington House. 
 
 ## Previous Community Meetings
 

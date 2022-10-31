@@ -33,7 +33,7 @@ The community last met at a RAS-sponsored meeting in [February 2020](https://doi
 * 13:45-15:30 Session II: Atmosphere-Magnetosphere Connections
 * 15:30-16:00 Tea at the Society of Antiquaries of London
 
-**Important Information for Attendees:**
+## Important Information for Attendees:
 * **Lunch:** RAS meeting schedules are often rather tight, and only an hour can be provided for lunch.  With venues busy during the lunch break, it might be wise to purchase lunches in advance to eat in the RAS library, which will give you plenty of time to view posters and chat to colleagues!
 * **Contributed talks** are allocated 10 minutes, for both talks and Q&A.  We recommend **8-minute** talks, but if you wish to retain more time for discussion, please feel free to shorten!
 * Speakers should bring their slides on a **USB stick** and upload to the RAS machine either before 10:30 or during the lunch break.

@@ -1,5 +1,7 @@
 # UK Planetary Atmospheres Meeting 2020
 
+[Return to homepage.](https://ukplanetaryatmospheres.github.io/web/)
+
 A Royal Astronomical Society Discussion Meeting bringing together Solar System planetary atmospheres researchers from across the UK.
 
 Venue: Royal Astronomical Society, Burlington House, London.

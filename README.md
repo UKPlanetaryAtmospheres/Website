@@ -12,9 +12,9 @@ RAS Geophysics Specialist Discussion Meeting:
 
 Hybrid meeting, with in-person attendance at the Royal Astronomical Society, Burlington House (10:00-16:00), followed by a RAS Ordinary Meeting and the [James Dungey Lecture](https://ras.ac.uk/awards-and-grants/awards/2276-james-dungey-lecture) to be delivered by Dr. Licia Ray.
 
-Abstracts for invited and contributed presentations (orals and posters) can be [found here.](abstracts.md)
+**Abstracts for invited and contributed presentations** (orals and posters) can be [found here.](abstracts.md)
 
-The schedule for the discussion meeting can be [found here.](schedule2022.md)
+The **schedule for the discussion meeting** can be [found here.](schedule2022.md)
 
 With the exception of presenters, all attendees, both online and in person will have to register in advance via Eventbrite (follow [these links](https://ras.ac.uk/events-and-meetings/ras-meetings/exploring-planetary-atmospheric-processes-terrestrial-worlds-giant)).  Registration closes at midnight (GMT) on 10 November.
 

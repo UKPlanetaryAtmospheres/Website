@@ -1,5 +1,7 @@
 # Abstracts 2022
 
+[Return to homepage.](https://ukplanetaryatmospheres.github.io/web/)
+
 ## Session One:  Terrestrial Worlds
 ### Theory, models, and methods: Translating Earth science to planetary atmospheres
 William Seviour, Department of Mathematics and Statistics, University of Exeter

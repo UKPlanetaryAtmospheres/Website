@@ -14,6 +14,8 @@ Hybrid meeting, with in-person attendance at the Royal Astronomical Society, Bur
 
 Abstracts for invited and contributed presentations (orals and posters) can be [found here.](abstracts.md)
 
+The schedule for the discussion meeting can be [found here.](schedule2022.md)
+
 With the exception of presenters, all attendees, both online and in person will have to register in advance via Eventbrite (follow [these links](https://ras.ac.uk/events-and-meetings/ras-meetings/exploring-planetary-atmospheric-processes-terrestrial-worlds-giant)).  Registration closes at midnight (GMT) on 10 November.
 
 **Organisers:**  Leigh N. Fletcher (University of Leicester, leigh.fletcher@le.ac.uk),  Karen Aplin (University of Bristol), Dann Mitchell (University of Bristol), Licia Ray (Lancaster University)   
